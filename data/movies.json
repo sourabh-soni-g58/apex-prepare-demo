@@ -6,56 +6,65 @@
             "release_date_at": "2018-04-27T00:00:00Z",
             "imdb_url": "https://www.imdb.com/title/tt4154756/",
             "ui_label": "Avengers: Infinity War (2018)",
-            "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+            "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "audience_rating_id": "5"
         },
         {
             "title": "Avengers: Endgame",
             "release_date_at": "2019-04-26T00:00:00Z",
             "imdb_url": "https://www.imdb.com/title/tt4154796/",
             "ui_label": "Avengers: Endgame (2019)",
-            "description": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+            "description": "After the devastating events of Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+            "audience_rating_id": "5"
         },
         {
             "title": "Avengers: Age of Ultron",
             "release_date_at": "2015-05-01T00:00:00Z",
             "imdb_url": "https://www.imdb.com/title/tt2395427/",
             "ui_label": "Avengers: Age of Ultron (2015)",
-            "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan."
+            "description": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+            "audience_rating_id": "4"
         },
         {
             "title": "The Avengers",
             "release_date_at": "2012-05-04T00:00:00Z",
             "imdb_url": "https://www.imdb.com/title/tt0848228/",
             "ui_label": "The Avengers (2012)",
-            "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity."
+            "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+            "audience_rating_id": "5"
         },
         {
             "title": "Avengers: Doomsday",
             "release_date_at": "2026-05-01T00:00:00Z",
             "imdb_url": "https://www.imdb.com/title/tt16360004/",
             "ui_label": "Avengers: Doomsday (2026)",
-            "description": "The Avengers face their most dangerous threat yet as Doctor Doom rises to challenge the very fabric of the Marvel universe."
+            "description": "The Avengers face their most dangerous threat yet as Doctor Doom rises to challenge the very fabric of the Marvel universe.",
+            "audience_rating_id": "4"
         },
         {
             "title": "A Minecraft Movie",
             "release_date_at": "2025-04-04T00:00:00Z",
             "imdb_url": "https://www.imdb.com/title/tt3566834/",
             "ui_label": "A Minecraft Movie (2025)",
-            "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld, a bizarre, cubic wonderland that thrives on imagination."
+            "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld, a bizarre, cubic wonderland that thrives on imagination.",
+            "audience_rating_id": "4"
         },
         {
             "title": "Oppenheimer",
-            "release_date_at": "2023-07-21T00:00:00Z"
+            "release_date_at": "2023-07-21T00:00:00Z",
+            "audience_rating_id": "5"
         },
         {
             "title": "Dune: Part Two",
             "release_date_at": "2024-03-01T00:00:00Z",
-            "imdb_url": "https://www.imdb.com/title/tt15239678/"
+            "imdb_url": "https://www.imdb.com/title/tt15239678/",
+            "audience_rating_id": "5"
         },
         {
             "title": "Inside Out 2",
             "release_date_at": "2024-06-14T00:00:00Z",
-            "description": "After Riley hits adolescence, new emotions join her existing ones, leading to conflicts inside her mind as she navigates the challenges of growing up."
+            "description": "After Riley hits adolescence, new emotions join her existing ones, leading to conflicts inside her mind as she navigates the challenges of growing up.",
+            "audience_rating_id": "4"
         }
     ]
 }
