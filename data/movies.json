@@ -47,24 +47,52 @@
             "imdb_url": "https://www.imdb.com/title/tt3566834/",
             "ui_label": "A Minecraft Movie (2025)",
             "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld, a bizarre, cubic wonderland that thrives on imagination.",
-            "audience_rating_id": "4"
+            "audience_rating_id": "4",
+            "poster_image_id": "27",
+            "actors": {
+                "set": ["3", "7", "11"]
+            }
         },
         {
             "title": "Oppenheimer",
             "release_date_at": "2023-07-21T00:00:00Z",
-            "audience_rating_id": "5"
+            "audience_rating_id": "5",
+            "poster_image_id": "29",
+            "actors": {
+                "set": ["2"]
+            }
         },
         {
             "title": "Dune: Part Two",
             "release_date_at": "2024-03-01T00:00:00Z",
             "imdb_url": "https://www.imdb.com/title/tt15239678/",
-            "audience_rating_id": "5"
+            "audience_rating_id": "5",
+            "poster_image_id": "30",
+            "actors": {
+                "set": ["1", "4", "5", "8", "12"]
+            }
         },
         {
             "title": "Inside Out 2",
             "release_date_at": "2024-06-14T00:00:00Z",
             "description": "After Riley hits adolescence, new emotions join her existing ones, leading to conflicts inside her mind as she navigates the challenges of growing up.",
-            "audience_rating_id": "4"
+            "audience_rating_id": "4",
+            "poster_image_id": "31",
+            "actors": {
+                "set": ["6", "9", "13"]
+            }
+        },
+        {
+            "title": "Spider-Man: No Way Home",
+            "release_date_at": "2021-12-17T00:00:00Z",
+            "imdb_url": "https://www.imdb.com/title/tt10872600/",
+            "ui_label": "Spider-Man: No Way Home (2021)",
+            "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+            "audience_rating_id": "5",
+            "poster_image_id": "28",
+            "actors": {
+                "set": ["10", "14", "15", "16"]
+            }
         }
     ]
 }
