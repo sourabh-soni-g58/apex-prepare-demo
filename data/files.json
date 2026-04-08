@@ -217,7 +217,7 @@
 		{
 			"filestorage_id": "gcp://apex/demo/movie-posters/minecraft.png",
 			"name": "minecraft.png",
-			"guid": "6d1c4f2a-8b90-4e3d-a1f2-010101010101",
+			"guid": "a8f3c2d1-4e5b-4f6a-9c7d-1a2b3c4d5e01",
 			"file_size": 64054,
 			"public_url": "https://raw.githubusercontent.com/sourabh-soni-g58/apex-prepare-demo/apex-training/assets/movie-posters/minecraft.png",
 			"height": 750,
@@ -226,38 +226,11 @@
 		{
 			"filestorage_id": "gcp://apex/demo/movie-posters/spider-man-poster.jpg",
 			"name": "spider-man-poster.jpg",
-			"guid": "6d1c4f2a-8b90-4e3d-a1f2-020202020202",
+			"guid": "b9e4d3c2-5f6a-4b7c-ad8e-2b3c4d5e6f02",
 			"file_size": 481269,
 			"public_url": "https://raw.githubusercontent.com/sourabh-soni-g58/apex-prepare-demo/apex-training/assets/movie-posters/spider-man-poster.jpg",
 			"height": 3000,
 			"width": 2000
-		},
-		{
-			"filestorage_id": "demo://tmdb/w500/oppenheimer-2023",
-			"name": "oppenheimer-poster.jpg",
-			"guid": "6d1c4f2a-8b90-4e3d-a1f2-030303030303",
-			"file_size": 85000,
-			"public_url": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGHm7OWDPt.jpg",
-			"height": 750,
-			"width": 500
-		},
-		{
-			"filestorage_id": "demo://tmdb/w500/dune-part-two-2024",
-			"name": "dune-part-two-poster.jpg",
-			"guid": "6d1c4f2a-8b90-4e3d-a1f2-040404040404",
-			"file_size": 92000,
-			"public_url": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
-			"height": 750,
-			"width": 500
-		},
-		{
-			"filestorage_id": "demo://tmdb/w500/inside-out-2-2024",
-			"name": "inside-out-2-poster.jpg",
-			"guid": "6d1c4f2a-8b90-4e3d-a1f2-050505050505",
-			"file_size": 78000,
-			"public_url": "https://image.tmdb.org/t/p/w500/stKjmmINQ35Lac8UOG9SWUKkOri.jpg",
-			"height": 750,
-			"width": 500
 		}
 	]
 }
