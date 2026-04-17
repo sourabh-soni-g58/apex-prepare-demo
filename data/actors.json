@@ -1,0 +1,34 @@
+{
+	"model": "actors",
+	"data": [
+		{ "movie_id": "8", "contact_id": "71", "role": "Paul Atreides" },
+		{ "movie_id": "8", "contact_id": "37", "role": "Chani" },
+		{ "movie_id": "8", "contact_id": "107", "role": "Lady Jessica" },
+		{ "movie_id": "8", "contact_id": "6", "role": "Gurney Halleck" },
+		{ "movie_id": "8", "contact_id": "129", "role": "Stilgar" },
+
+		{ "movie_id": "10", "contact_id": "52", "role": "Peter Parker / Spider-Man" },
+		{ "movie_id": "10", "contact_id": "37", "role": "MJ" },
+		{ "movie_id": "10", "contact_id": "122", "role": "Doctor Strange" },
+		{ "movie_id": "10", "contact_id": "134", "role": "Green Goblin" },
+		{ "movie_id": "10", "contact_id": "82", "role": "Electro" },
+
+		{ "movie_id": "6", "contact_id": "16", "role": "Steve" },
+		{ "movie_id": "6", "contact_id": "82", "role": "Garrett 'The Garbage Man' Garrison" },
+		{ "movie_id": "6", "contact_id": "28", "role": "Dawn" },
+		{ "movie_id": "6", "contact_id": "84", "role": "Vice Principal Marlene" },
+		{ "movie_id": "6", "contact_id": "119", "role": "Natalie" },
+
+		{ "movie_id": "1", "contact_id": "33", "role": "Tony Stark / Iron Man" },
+		{ "movie_id": "1", "contact_id": "24", "role": "Steve Rogers / Captain America" },
+		{ "movie_id": "1", "contact_id": "94", "role": "Bruce Banner / Hulk" },
+		{ "movie_id": "1", "contact_id": "120", "role": "Natasha Romanoff / Black Widow" },
+		{ "movie_id": "1", "contact_id": "68", "role": "Thor" },
+
+		{ "movie_id": "7", "contact_id": "92", "role": "J. Robert Oppenheimer" },
+		{ "movie_id": "7", "contact_id": "68", "role": "Lewis Strauss" },
+		{ "movie_id": "7", "contact_id": "14", "role": "Kitty Oppenheimer" },
+		{ "movie_id": "7", "contact_id": "66", "role": "Leslie Groves" },
+		{ "movie_id": "7", "contact_id": "27", "role": "Jean Tatlock" }
+	]
+}
